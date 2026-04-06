@@ -1,4 +1,4 @@
-**Design & Ship | Applied AI & Agentic Systems**
+# Design & Ship | Applied AI & Agentic Systems
 
 I translate ambiguous AI opportunities into production systems that ship reliable, auditable, and economically viable outcomes. I own the full stack: product strategy, system architecture, evaluation harnesses, and progressive rollout frameworks.
 

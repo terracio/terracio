@@ -1,4 +1,4 @@
-# Tarig Bouazzati — Enterprise AI Adoption & Deployment
+# Business Engineer w/ a Focus on Enterprise AI Adoption & Deployment
 
 Most enterprise AI work does not fail at the demo. It fails in the gap between a promising prototype and a workflow that people actually trust, adopt, and use every day.
 

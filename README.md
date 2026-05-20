@@ -42,10 +42,10 @@ This project reflects how I think enterprise AI systems should be built: the mod
 
 | Project                  | Role                          | Impact |
 |--------------------------|-------------------------------|--------|
-| **Serena OS**            | Founder / Product Lead        | AI-native multi-agent platform automating SME operations via WhatsApp. Delivered governed agent workflows and **31% Year-1 ROI**. |
-| **Kayako AI**  | Technical Turnaround Lead     | Multi-agent RAG system inside enterprise CRM. Built Validation Chain QC agent → **68% reduction in false positives** and **85% drop in inference costs**. |
-| **CubIQ AI**             | Technical Product Lead        | 10-agent EdTech platform with self-consistency layer. Reduced hallucination risk to **<1%** while optimizing unit economics. |
-| **LLM-Based Trading Engine** | Technical Product Lead     | Live autonomous trading system built under strict observability and failure-isolation constraints. |
+| **Serena OS**            | AI Solutions Engineer  | AI-native multi-agent platform automating SME operations via WhatsApp. Delivered governed agent workflows and **31% Year-1 ROI**. |
+| **Kayako AI**  | AI Technical Product Owner     | Multi-agent RAG system inside enterprise CRM. Built Validation Chain QC agent → **68% reduction in false positives** and **85% drop in inference costs**. |
+| **CubIQ AI**             | Technical Founder        | 10-agent EdTech platform with self-consistency layer. Reduced hallucination risk to **<1%** while optimizing unit economics. |
+| **AMDA pi** | CTO & CEO, Co-Founder     | AI powered conversational intelligence SaaS with clients including Nestlé Waters, AXA, Veolia, and TotalEnergies. |
 
 ---
 
